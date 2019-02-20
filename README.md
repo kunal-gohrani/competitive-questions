@@ -1,5 +1,6 @@
 # competitve-questions
 This repository contains many competitive questions and their codes written in java
+Any necessary changes to the code to improve efficiency will be welcomed.
 
 Q1)Create a game with a language only containing 'A' and 'B', we take input of two strings:- initial and target. We need to convert the initial to the target string by using these two rules:-
   1. Add 'A' to end of initial
