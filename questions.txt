@@ -1,0 +1,8 @@
+Q1) A language only containing 'A' and 'B', create a game where there are two strings inputted, initial and target. We need to make the initial like the target and count the possible number of moves by following 2 rules:-
+  1. Add 'A' to end of initial
+  2. Add 'B' to end of initial and reverse the string such that B is first letter.
+
+Constraints:-
+  1.Initial is always lesser than target
+  2. initial is between 1 and 49 characters
+  3. target is between 2 and 50 characters.
